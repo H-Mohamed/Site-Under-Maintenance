@@ -1,0 +1,31 @@
+body{ 
+    text-align: center; padding: 150px;
+    font: 20px Helvetica, sans-serif; color: #333;
+ }
+
+h1{
+    font-size: 50px;
+ }
+
+.container{
+    display: block;
+    text-align: center;
+    width: 650px;
+     margin: 0 auto;
+}
+
+.font{
+    font-family: 'Great Vibes', cursive;
+}
+
+.LOGO{
+    font-family: 'Libre Barcode 128 Text', cursive;
+}
+
+a{
+     color: #0366d6; text-decoration: none;
+}
+
+a:hover{ 
+    color: #333; text-decoration: none;
+ }
